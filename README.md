@@ -18,8 +18,8 @@ reference-work digitization.
 
 ```
 data/
-  СИЭ-01.csv   -- Volume 1, full data, in scan (page) order
-  СИЭ-01.md    -- Volume 1, simplified table, alphabetically sorted --
+  SIE-01.csv   -- Volume 1, full data, in scan (page) order
+  SIE-01.md    -- Volume 1, simplified table, alphabetically sorted --
                   browsable directly on GitHub, no download needed
 ```
 
