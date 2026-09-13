@@ -48,12 +48,16 @@ CSV columns:
 
 ## Regenerating from source
 
-If you have your own `sie_titles.db` (produced by kolonka):
+The export script (`export.py`) lives in the
+[kolonka](https://github.com/fukanchik/kolonka) repo, since it depends
+on that project's database schema. Clone it, then point it at your
+`sie_titles.db` with `--out` set to this repo's `data/` directory:
 
 ```bash
-python3 export.py /path/to/sie_titles.db
+git clone https://github.com/fukanchik/kolonka.git
+python3 kolonka/export.py /path/to/sie_titles.db --out data
 # or just one volume:
-python3 export.py /path/to/sie_titles.db --volume СИЭ-01
+python3 kolonka/export.py /path/to/sie_titles.db --volume СИЭ-01 --out data
 ```
 
 ## License
