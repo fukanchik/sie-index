@@ -1,6 +1,6 @@
 # СИЭ-01
 
-1520 entries. Sorted alphabetically. Page links go to the matching scan on [Internet Archive](https://archive.org/details/B-001-026-938-01) (page numbers there are offset by 2 from this encyclopedia's own numbering -- not yet confirmed exact for every page). 951 of 1520 titles link to a matching Russian Wikipedia article. `*` after a printed page number means it was extrapolated rather than read directly from that page's own header -- see the [kolonka](https://github.com/fukanchik/kolonka) repo (which also contains the `export.py` script that generated this file) for how that works. Do not hand-edit.
+1520 entries. Sorted alphabetically. Page links go to the matching scan on [Internet Archive](https://archive.org/details/B-001-026-938-01) (page numbers there are offset by 2 from this encyclopedia's own numbering -- not yet confirmed exact for every page). 952 of 1520 titles link to a matching Russian Wikipedia article. `*` after a printed page number means it was extrapolated rather than read directly from that page's own header -- see the [kolonka](https://github.com/fukanchik/kolonka) repo (which also contains the `export.py` script that generated this file) for how that works. Do not hand-edit.
 
 | Title | Page | Printed # |
 |---|---|---|
@@ -741,10 +741,10 @@
 | [АМФИТЕАТР](https://ru.wikipedia.org/wiki/Амфитеатр) | [247](https://archive.org/details/B-001-026-938-01/page/n245/mode/2up) | 478 |
 | [АМХАРА](https://ru.wikipedia.org/wiki/Амхара) | [247](https://archive.org/details/B-001-026-938-01/page/n245/mode/2up) | 478 |
 | АМХЕРСТА МИССИЯ 1816 - | [247](https://archive.org/details/B-001-026-938-01/page/n245/mode/2up) | 478–479 |
-| [АМЬЁН](https://ru.wikipedia.org/wiki/Амьен) | [248](https://archive.org/details/B-001-026-938-01/page/n246/mode/2up) | 479 |
-| [АМЬЁНСКАЯ ОПЕРАЦИЯ 1918](https://ru.wikipedia.org/wiki/Амьенская_операция_1918) | [248](https://archive.org/details/B-001-026-938-01/page/n246/mode/2up) | 479–480 |
-| [АМЬЁНСКАЯ ХАРТИЯ](https://ru.wikipedia.org/wiki/Амьенская_хартия) | [248](https://archive.org/details/B-001-026-938-01/page/n246/mode/2up) | 480 |
-| АМЬЁНСКИЙ МИРНЫЙ ДоГОоВоОР 1802 | [248](https://archive.org/details/B-001-026-938-01/page/n246/mode/2up) | 480–481 |
+| [АМЬЕН](https://ru.wikipedia.org/wiki/Амьен) | [248](https://archive.org/details/B-001-026-938-01/page/n246/mode/2up) | 479 |
+| [АМЬЕНСКАЯ ОПЕРАЦИЯ 1918](https://ru.wikipedia.org/wiki/Амьенская_операция_1918) | [248](https://archive.org/details/B-001-026-938-01/page/n246/mode/2up) | 479–480 |
+| [АМЬЕНСКАЯ ХАРТИЯ](https://ru.wikipedia.org/wiki/Амьенская_хартия) | [248](https://archive.org/details/B-001-026-938-01/page/n246/mode/2up) | 480 |
+| [АМЬЕНСКИЙ МИРНЫЙ ДОГОВОР 1802](https://ru.wikipedia.org/wiki/Амьенский_мирный_договор_1802) | [248](https://archive.org/details/B-001-026-938-01/page/n246/mode/2up) | 480–481 |
 | [АМЁНОФИС](https://ru.wikipedia.org/wiki/Аменофис) | [232](https://archive.org/details/B-001-026-938-01/page/n230/mode/2up) | 448 |
 | [АНАБАПТИСТЫ](https://ru.wikipedia.org/wiki/Анабаптисты) | [249](https://archive.org/details/B-001-026-938-01/page/n247/mode/2up) | 481–482 |
 | «АНАБАСИС» | [249](https://archive.org/details/B-001-026-938-01/page/n247/mode/2up) | 482 |
@@ -1050,7 +1050,7 @@
 | [АПОКРИФЫ](https://ru.wikipedia.org/wiki/Апокрифы) | [335](https://archive.org/details/B-001-026-938-01/page/n333/mode/2up) | 649–650 |
 | АПОЛЛОНИЯ О ПЛЛИРИЙСКАЯ | [335](https://archive.org/details/B-001-026-938-01/page/n333/mode/2up) | 650–651 |
 | АПОЛЛОНО | [335](https://archive.org/details/B-001-026-938-01/page/n333/mode/2up) | 650 |
-| [АПОЛОГЁТЫ](https://ru.wikipedia.org/wiki/Апологеты) | [336](https://archive.org/details/B-001-026-938-01/page/n334/mode/2up) | 651 |
+| [АПОЛОГЕТЫ](https://ru.wikipedia.org/wiki/Апологеты) | [336](https://archive.org/details/B-001-026-938-01/page/n334/mode/2up) | 651 |
 | АПОМОЙРА | [336](https://archive.org/details/B-001-026-938-01/page/n334/mode/2up) | 651 |
 | АПОРЫ | [336](https://archive.org/details/B-001-026-938-01/page/n334/mode/2up) | 651–652 |
 | [АПОСТОЛИКИ](https://ru.wikipedia.org/wiki/Апостолики) | [336](https://archive.org/details/B-001-026-938-01/page/n334/mode/2up) | 652 |
@@ -1138,6 +1138,7 @@
 | [АРЕЛАТ](https://ru.wikipedia.org/wiki/Арелат) | [371](https://archive.org/details/B-001-026-938-01/page/n369/mode/2up) | 718–719 |
 | АРЕНДА ЗЕМЛИЙ | [372](https://archive.org/details/B-001-026-938-01/page/n370/mode/2up) | 719–724 |
 | [АРЕОПАГ](https://ru.wikipedia.org/wiki/Ареопаг) | [374](https://archive.org/details/B-001-026-938-01/page/n372/mode/2up) | 724–725 |
+| [АРЕФА Кесарийский](https://ru.wikipedia.org/wiki/Арефа_Кесарийский) | [375](https://archive.org/details/B-001-026-938-01/page/n373/mode/2up) | 725 |
 | АРЗАВА | [375](https://archive.org/details/B-001-026-938-01/page/n373/mode/2up) | 725 |
 | [АРИАНСТВО](https://ru.wikipedia.org/wiki/Арианство) | [375](https://archive.org/details/B-001-026-938-01/page/n373/mode/2up) | 725–726 |
 | [АРИАРАТ](https://ru.wikipedia.org/wiki/Ариарат) | [375](https://archive.org/details/B-001-026-938-01/page/n373/mode/2up) | 726 |
@@ -1293,7 +1294,6 @@
 | [АРШАКИДЫ](https://ru.wikipedia.org/wiki/Аршакиды) | [455](https://archive.org/details/B-001-026-938-01/page/n453/mode/2up) | 886 |
 | [АРЬЯВАРТА](https://ru.wikipedia.org/wiki/Арьяварта) | [456](https://archive.org/details/B-001-026-938-01/page/n454/mode/2up) | 887 |
 | [АРЬЯ САМАДЖ](https://ru.wikipedia.org/wiki/Арья_Самадж) | [455](https://archive.org/details/B-001-026-938-01/page/n453/mode/2up) | 886–887 |
-| [АРЁФА](https://ru.wikipedia.org/wiki/Арефа) | [375](https://archive.org/details/B-001-026-938-01/page/n373/mode/2up) | 725 |
 | [АСАНУМА](https://ru.wikipedia.org/wiki/Асанума) | [456](https://archive.org/details/B-001-026-938-01/page/n454/mode/2up) | 887 |
 | [АСАНЫ](https://ru.wikipedia.org/wiki/Асаны) | [456](https://archive.org/details/B-001-026-938-01/page/n454/mode/2up) | 887 |
 | [АСАНЬЯ](https://ru.wikipedia.org/wiki/Асанья) | [456](https://archive.org/details/B-001-026-938-01/page/n454/mode/2up) | 887 |
